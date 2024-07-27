@@ -32,8 +32,9 @@ Representación gráfica del análisis de viabilidad con recomendaciones.
 Demostración de la interfaz utilizada para comparar tres proyectos.
 ![Interfaz de Comparación](https://github.com/user-attachments/assets/86ad5658-cabe-4bb9-b8ab-18fe1ce3e6b7)
 ![Configuración de Proyectos](https://github.com/user-attachments/assets/07e757d2-076c-4cd2-84a9-3bb260e60e83)
-![Ingreso de datos](https://github.com/user-attachments/assets/a6f0b6e5-3a18-4d64-8699-d97525a0ff94)
-![Gráfica y Recomendaciones](https://github.com/user-attachments/assets/e5b5e2f2-5197-4755-acec-ba85b5fbf6aa)
+![Ingreso de datos](https://github.com/user-attachments/assets/74e580fa-50b8-41ff-8e1a-4fdd724cf849)
+![Gráfica y Recomendaciones](https://github.com/user-attachments/assets/3fe31c12-db74-4700-acd1-7a2072dbeff2)
+
 
 
 ### Gráficas de VAN vs FEN
@@ -41,7 +42,7 @@ Demostración de la interfaz utilizada para comparar tres proyectos.
 Visuales de VAN para distintos volúmenes de datos.
 
 - **Gráfica Simple**: Presenta el VAN para datos básicos.
-  ![Gráfica Simple del VAN](https://github.com/user-attachments/assets/c79560b0-0fed-43c2-9eeb-47c2f20a8cf6)
+  ![Gráfica Simple del VAN](https://github.com/user-attachments/assets/cfb9535e-8fdc-43d9-9bf3-605c1732a5ec)
 
 
 - **Gráfica Detallada**: Muestra el VAN para un gran volumen de datos.
