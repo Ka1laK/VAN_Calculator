@@ -32,6 +32,7 @@ Representación gráfica del análisis de viabilidad con recomendaciones.
 Demostración de la interfaz utilizada para comparar tres proyectos.
 ![Interfaz de Comparación](https://github.com/user-attachments/assets/86ad5658-cabe-4bb9-b8ab-18fe1ce3e6b7)
 ![Configuración de Proyectos](https://github.com/user-attachments/assets/07e757d2-076c-4cd2-84a9-3bb260e60e83)
+![Ingreso de datos](https://github.com/user-attachments/assets/a6f0b6e5-3a18-4d64-8699-d97525a0ff94)
 ![Gráfica y Recomendaciones](https://github.com/user-attachments/assets/e5b5e2f2-5197-4755-acec-ba85b5fbf6aa)
 
 
