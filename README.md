@@ -9,9 +9,15 @@ Esta aplicación, construida con la biblioteca Tkinter en Python, permite evalua
 - **Visualización de Datos**: Genera gráficos para una comparación visual clara y directa entre los proyectos evaluados.
 
 ## Visualizaciones
-### Interfaz Simple
 Interfaz de usuario clara y accesible.
+
+
+### Interfaz Simple
+
+
 ![Interfaz Simple](https://github.com/user-attachments/assets/50b3f78c-ddd5-4791-8ace-0356b343e551)
+
+
 
 ### Creación de Campos de FEN a través del Tiempo
 Muestra cómo se puede configurar la entrada de datos a lo largo de varios años.
@@ -28,8 +34,12 @@ Demostración de la interfaz utilizada para comparar tres proyectos.
 ![Configuración de Proyectos](https://github.com/user-attachments/assets/07e757d2-076c-4cd2-84a9-3bb260e60e83)
 
 ### Gráficas de VAN vs FEN
+
 Visuales de VAN para distintos volúmenes de datos.
+
 - **Gráfica Simple**: Presenta el VAN para datos básicos.
   ![Gráfica Simple del VAN](https://github.com/user-attachments/assets/c79560b0-0fed-43c2-9eeb-47c2f20a8cf6)
+
+
 - **Gráfica Detallada**: Muestra el VAN para un gran volumen de datos.
   ![Gráfica Compleja del VAN](https://github.com/user-attachments/assets/31bf1132-7e17-46da-8427-cd03a107e3c7)
